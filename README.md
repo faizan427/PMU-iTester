@@ -1,4 +1,4 @@
-# iTester
+# PMU iTester
 Open source implementation of PMU connection tester in Linux:
 An internship Project at EE-IIT Bombay.
 -------------
@@ -12,7 +12,7 @@ To build the source files:
 This package is functional with iPDC package just as add-on to iPDC tool.
 https://github.com/gopalgajjar/iPDC
 
-Features in iTester v1.0
+Features in PMU iTester v1.0
 =================================================
 The programme in its v1.0, realizes a specific case of PMU connection with exactly 1 PMU unit.
 
