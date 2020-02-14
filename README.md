@@ -1,5 +1,5 @@
 # iTester
-Open source implementation of PMU connection tester in Linux
+Open source implementation of PMU connection tester in Linux:
 An internship Project at EE-IIT Bombay.
 -------------
 Latest update:  14 February 2020
